@@ -1,3 +1,4 @@
+# Hi there ^_^
 <!--
 **Surjasa/Surjasa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -12,7 +13,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-### My Top Languages
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Surjasa&layout=compact&langs_count=8&theme=radical)](https://github.com/Surjasa)
